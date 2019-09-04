@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.background img{
+	width: 100%;
+}
+.l1{
+	padding-left: 50px;
+}
+.text p{
+	color: brown;
+	width:500px;
+}
+img{
+	width:300px;
+}
+.button{
+	font-size: 15px;
+	font-family: monospace;
+	background-color: #ff9090; 
+	padding: 10px 30px;
+	width: 60px;
+	color: #6e2c2c;
+
+	border-radius: 100px;
+	border: 1px solid #f64747;
+	border-top: #ee6969;
+	border-bottom: 3px solid #f64747;
+}
+
+.button:hover{
+	background-color: #f67878;
+}
+
+
